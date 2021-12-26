@@ -1,4 +1,4 @@
-# Tweet Moderator Backend
+# Tweet Moderator Frontend
 
 ## Requirements
 
